@@ -2,9 +2,9 @@
 ## 👤About me
 Hello,welcome to my homepage.I am a server application programer,my area is `Internet of Things` and  `Concurrency System`.
 ## 📱Skills
-- JavaEE
+- Java
 - Erlang
 - C
 - Python
 ## 📞Contract
-- Gmail:cnwwh@gmail.com
+- Gmail:cnwwhai@gmail.com
