@@ -1,6 +1,6 @@
 # 😀Have a good time!
-|  Stats   | Lang  |
-|  ----  | ----  |
+|  Stats |
+|  ----  |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=wwhai)|
 
 ## 👤About me
