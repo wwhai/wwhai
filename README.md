@@ -15,4 +15,6 @@
 ## Contract
 - Gmail: cnwwhai@gmail.com
 - QQ group: 475512169
-- Blog: https://openlab.ezlinker.cn
+- Blog1: https://openlab.ezlinker.cn
+- Blog2: https://wwhai.gitee.io
+> Blog1 on github page, Blog2 on gitee page for china friends. 
